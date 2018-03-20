@@ -15,7 +15,7 @@ The "lib" and "dist" folders from the [Calcite Maps Framework](https://github.co
 3. Update all placeholder text fields in map.html to reflect the content.
 4. Add a web map using the following steps:
     * Make a map using ArcGIS online and share publicly
-    * Go to ArcGIS online rest url for the webmap: https://accsmaps.maps.arcgis.com/sharing/rest/content/items/<webmap id>/data?f=pjson
+    * Go to ArcGIS online rest url for the webmap: https://accsmaps.maps.arcgis.com/sharing/rest/content/items/**"webmap-id"**/data?f=pjson
     * Paste json for web map after "var webmapJSON = "
 
 ## Usage
