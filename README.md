@@ -19,15 +19,17 @@ The "lib" and "dist" folders from the [Calcite Maps Framework](https://github.co
     * Paste json for web map after "var webmapJSON = "
 
 ## Usage
+The ACCS Calcite Map Template is a modified version of the ESRI Calcite Maps Framework, which is available under the Apache 2.0 License. We have modified the template to fit the theme, branding, and needs of the Alaska Center for Conservation Science. We have licensed the modified version under the Apache 2.0 License as well. However, we encourage potential users to use the maintained [ESRI Calcite Maps Framework](https://github.com/Esri/calcite-maps).
 
 ### ACCS Calcite Maps Template
-* Map template should be maintained to match current version of Calcite Maps and incorporate new features as added.
+* Map template should be maintained to match current version of ESRI Calcite Maps Frameworj and incorporate new features as added.
 
 ## Credits
+[ESRI Calcite Maps Framework](https://github.com/Esri/calcite-maps)
 
 ### Built With
 * Notepad ++
-* Calcite Maps Framework
+* ESIR 
 * ArcGIS Online
 
 ### Authors
@@ -35,9 +37,15 @@ The "lib" and "dist" folders from the [Calcite Maps Framework](https://github.co
 * **Timm Nawrocki** - *Alaska Center for Conservation Science, University of Alaska Anchorage*
 
 ### Usage Requirements
-
-None
+Specified in the [ESRI Calcite Maps Framework](https://github.com/Esri/calcite-maps).
 
 ### License
+Modified from: [ESRI Calcite Maps Framework](https://github.com/Esri/calcite-maps) Copyright 2015 Esri
 
-This project is private and can be used by Alaska Center for Conservation Science and collaborators.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+A copy of the license is available in the repository's license.txt file.
